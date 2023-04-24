@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+forums.getpaint.net	TRUE	/	FALSE	1999999999	AWSALB	UIFxetjNi5S9phXY/bF3oaNov8y3FTw1yCRky2gaPmdgnsmRz5GUXQBipAWopjBQNww3476KJ9QXT4wA3zgx1mR7EH3l/PaAeQr18zVt0l2zVAYDvULYKxIcgGjp
+forums.getpaint.net	TRUE	/	FALSE	1999999999	AWSALBCORS	UIFxetjNi5S9phXY/bF3oaNov8y3FTw1yCRky2gaPmdgnsmRz5GUXQBipAWopjBQNww3476KJ9QXT4wA3zgx1mR7EH3l/PaAeQr18zVt0l2zVAYDvULYKxIcgGjp
+forums.getpaint.net	TRUE	/	FALSE	1999999999	SameSite	None
+alibisprocessessyntax.com	TRUE	/	FALSE	1999999999	4b4e7ab587d59b22ad7bcd2439afc363_ebt1205	1
+alibisprocessessyntax.com	TRUE	/	FALSE	1999999999	SameSite	None
+offdeck.telkomsel.com:1443	TRUE	/	FALSE	1999999999	SERVERUSED	offdeckpapp5
+
